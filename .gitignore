@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.context/
+yolo11n.pt
+*.stl
